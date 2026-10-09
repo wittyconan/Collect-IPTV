@@ -31,7 +31,7 @@ https://zilong7728.github.io/Collect-IPTV/
 
 ## ⏱️ Last Run Time
 
-<!-- Last Run Time --> 2026-10-09 12:13:49 CST
+<!-- Last Run Time --> 2026-10-09 22:57:06 CST
 
 ## 🔗 Generated File Link
 
